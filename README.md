@@ -11,15 +11,15 @@
 
 <h3>Achievements:
   <ul>
-    <li>Outstanding Undergraduate Student of Shandong University of Technology | <b>Top 2 Students</b>
-    <li>Leader for the Certificate Authority Cup International Mathematical Contest | <b>Second Prize</b>
+    <li>Outstanding Undergraduate Student of Shandong University of Technology | <b>Top 2 Students</b></li>
+    <li>Leader for the Certificate Authority Cup International Mathematical Contest | <b>Second Prize</b></li>
   </ul>
 </h3>
 <h3>Skill Set
   <ul>
-    <li><b>Programming Languages: </b>Python, Apache Spark, PostgreSQL, R, MySQL, Matlab, C++, Java
-    <li><b>Software/Packages: </b>Tableau, Esri ArcGIS, Tensorflow, Git, MS suite, SPSS
-    <li><b>Analytical Skills: </b>Time Series, Spatial Analysis, Supervised/Unsupervised Learning, Deep Learning
+    <li><b>Programming Languages: </b>Python, Apache Spark, PostgreSQL, R, MySQL, Matlab, C++, Java</li>
+    <li><b>Software/Packages: </b>Tableau, Esri ArcGIS, Tensorflow, Git, MS suite, SPSS</li>
+    <li><b>Analytical Skills: </b>Time Series, Spatial Analysis, Supervised/Unsupervised Learning, Deep Learning</li>
   </ul>
 </h3>
 <h3>Education: 
