@@ -23,7 +23,7 @@
   </ul>
 </h3>
 <h3>Education: 
-  <h4><b>The Pennsylvania State University</b> | M.S. of Civil Engineering, Computational Science | GPA: 3.63/4.00 | University Park | 08/2017 - 08/2019</h4>
+  <h4><b>The Pennsylvania State University</b> | M.S. of Civil Engineering, Computational Science | GPA: 3.63/4.00 | University Park, United States | 08/2017 - 08/2019</h4>
   <h4><b>Shandong University of Technology</b> | B.S. of Civil Engineering | GPA: 3.5/4.00 | Ranking: 6/83 | Zibo, China | 09/2013 - 06/2017</h4>
 </h3>
 
