@@ -6,7 +6,7 @@
 <h3><a href="https://github.com/iyutpo/Indeed-Job-Openings-Crawler">Web Crawler of Indeed Jobs</a></h3>
 <h3><a href="https://github.com/iyutpo/BarrageWordFrequencyVisualization/blob/master/BilibiliBarrage.ipynb">Bilibili Barrage Crawler and Word Cloud Visualization</a></h3>
 <h3><a>Graduate Thesis </a><a href="https://github.com/iyutpo/Graduate">(Code)</a></h3>
-<h3><a href="">Tutorial (Waiting to Complete)</a></h3>
+<h3><a href="https://github.com/iyutpo/DStructures">Tutorial</a></h3>
 <h3><a>Undergraduate Thesis (</a><a href="https://www.sciencedirect.com/science/article/pii/S0197397517301790">Economic impacts of accessibility gains: Case study of the Yangtze River Delta</a><a>)</a></h3>
 
 <h3>Achievements:
