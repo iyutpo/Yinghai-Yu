@@ -1,6 +1,8 @@
 <html>
 <body>
-<h1 style="text-align:center"><a href="https://iyutpo.github.io/Yinghai-Yu/">Welcome to My Homepage</a></h1>
+<h1 style="text-align:center">
+  <a href="https://iyutpo.github.io/Yinghai-Yu/">Welcome to My Homepage</a>
+</h1>
 </body>
 </html>
 
