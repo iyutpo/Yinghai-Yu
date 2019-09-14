@@ -1,7 +1,6 @@
 <html>
 <body>
-<h1 style="font-family:verdana""text-align:center"><a href="https://iyutpo.github.io/Yinghai-Yu/">Welcome to My Homepage</a></h1>
-<p style="font-family:arial;color:red;font-size:20px;">A paragraph.</p>
+<h1 style="text-align:center"><a href="https://iyutpo.github.io/Yinghai-Yu/">Welcome to My Homepage</a></h1>
 </body>
 </html>
 
