@@ -1,4 +1,17 @@
-<head><title><a href="https://iyutpo.github.io/Yinghai-Yu/">Welcome to My Homepage</a></title></head>
+<head><a href="https://iyutpo.github.io/Yinghai-Yu/">Welcome to My Homepage</a></title></head>
+
+<html xmlns="https://iyutpo.github.io/Yinghai-Yu"> 
+<head> 
+<meta charset="gb2312" /> 
+<title>W3Cschool居中实例</title> 
+<style> 
+body{text-align:center} 
+</style> 
+</head> 
+<body> 
+W3Cschool会被居中 
+</body> 
+</html>
 
 <h3><a href="https://github.com/iyutpo/San-Fancicso-Crime">San Francisco Crime Analysis</a><a> and </a><a href="https://www.youtube.com/watch?v=5P6qwwHRRzE&feature=youtu.be">Visualization</a><a> in Apache Spark</a></h3>
 
