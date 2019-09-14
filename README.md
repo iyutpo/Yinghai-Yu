@@ -1,4 +1,4 @@
-<h><a href="https://iyutpo.github.io/Yinghai-Yu/">Welcome to My Homepage</a></h>
+<title><a href="https://iyutpo.github.io/Yinghai-Yu/">Welcome to My Homepage</a></title>
 
 <h3><a href="https://github.com/iyutpo/San-Fancicso-Crime">San Francisco Crime Analysis</a><a> and </a><a href="https://www.youtube.com/watch?v=5P6qwwHRRzE&feature=youtu.be">Visualization</a><a> in Apache Spark</a></h3>
 
