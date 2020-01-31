@@ -4,7 +4,6 @@
     <h1 style="text-align:center">
         <a href="https://iyutpo.github.io/Yinghai-Yu/">Welcome to My Homepage</a>
     </h1>
-    <script src="index.js"></script>
     <h3><a href="https://github.com/iyutpo/AWS_Practitioner/tree/master/aws_essentials">AWS Practitioner Essentials</a>
     </h3>
     <h3><a href="https://github.com/iyutpo/AWS_Practitioner/tree/master/aws_architect_associate">AWS Architect
