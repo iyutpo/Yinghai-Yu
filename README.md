@@ -15,6 +15,7 @@
 <h3><a href="https://github.com/iyutpo/San-Fancicso-Crime">San Francisco Crime Analysis</a><a> and </a><a href="https://www.youtube.com/watch?v=5P6qwwHRRzE&feature=youtu.be">Visualization</a><a> in Apache Spark</a></h3>
 
 <h3><a href="https://github.com/iyutpo/Greenhouse">Green House Gas Emission</a></h3>
+<h3><a href="http://weris-inc.com/covid-test-page/">COVID-19 Dashboard</a></h3>
 <h3><a href="https://github.com/iyutpo/Indeed-Job-Openings-Crawler">Web Crawler of Indeed Jobs</a></h3>
 <h3><a href="https://github.com/iyutpo/BarrageWordFrequencyVisualization/blob/master/BilibiliBarrage.ipynb">Bilibili Barrage Crawler and Word Cloud Visualization</a></h3>
 <h3><a>Graduate Thesis </a><a href="https://github.com/iyutpo/Graduate">(Code)</a></h3>
